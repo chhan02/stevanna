@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "stevanna",
-    "currentPage": "index.html",
+    "currentPage": "faqs.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -2247,7 +2247,7 @@
         }
       ]
     },
-    "page3.html": {
+    "faqs.html": {
       "settings": {
         "title": "FAQs",
         "order": 1
